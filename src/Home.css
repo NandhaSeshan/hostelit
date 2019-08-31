@@ -1,0 +1,24 @@
+.img_style {
+  display: flex;
+  width: 100%;
+  margin-left: auto;
+  margin-right: auto;
+  height: auto;
+}
+
+.passage {
+  text-align: center;
+  text-align-last: center;
+  display: flex;
+  font-size: calc(6px + 1vw);
+  margin: 3% 4% 5% 4%;
+
+  font-family: "Exo 2", sans-serif;
+  width: 100%;
+  max-width: fit-content;
+}
+
+.home {
+  width: 100%;
+  margin-top: 65px;
+}

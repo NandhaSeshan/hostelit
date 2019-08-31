@@ -1,0 +1,24 @@
+.footer_style {
+  background-color: #0d0c0c;
+  height: 70px;
+  flex-shrink: 0;
+  size: 5px;
+  opacity: 0.9;
+}
+
+.footer_content {
+  color: white;
+  float: left;
+  margin: 10px 0 10px 20px;
+  font-family: "Exo 2", sans-serif;
+}
+
+.link_style {
+  color: white;
+  text-decoration: none;
+}
+
+.link_style:hover {
+  color: #f15b2a;
+  text-decoration: none;
+}

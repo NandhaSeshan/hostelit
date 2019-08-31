@@ -1,0 +1,39 @@
+.dest_image {
+  margin-left: auto;
+  margin-right: auto;
+  border-radius: 2%;
+  width: 100%;
+  max-width: 900px;
+  height: auto;
+}
+
+.desc_style {
+  margin-top: 5%;
+  text-align: center;
+  text-align-last: center;
+  font-size: calc(6px + 1vw);
+  font-family: "Exo 2", sans-serif;
+  display: flex;
+}
+
+.destination_style {
+  margin: 5% 10% 10% 10%;
+}
+
+.container {
+  text-align: center;
+  color: white;
+}
+
+.centered {
+  margin-top: 7%;
+  font-family: "Monoton", cursive;
+  font-size: 4vw;
+  letter-spacing: 9px;
+  color: black;
+}
+
+.destinations {
+  width: 100%;
+  margin-top: 65px;
+}
